@@ -1,11 +1,10 @@
-Angular Template For My Website
+Angular Project for My Website
+Thank you for Author Franco Dipre 
+GitHub: [Franco Dipre](https://github.com/diprefranco/)
 ============
-This is an Angular project you can use to build your personal website.
-
+This is an Angular project I use to build my personal website.
 ## Demo
 https://diprefranco.github.io/angular-template-my-website/
-
-# ![Website Screenshot](https://github.com/diprefranco/angular-template-my-website/blob/main/src/assets/img/website.png)
 
 ## Website Overview
 The site shows a header followed by the main section (hero section) to catch users attention.
