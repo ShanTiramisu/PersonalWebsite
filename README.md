@@ -1,7 +1,8 @@
 Angular Project for My Website
+============
 Thank you for Author Franco Dipre 
 GitHub: [Franco Dipre](https://github.com/diprefranco/)
-============
+
 This is an Angular project I use to build my personal website.
 ## Demo
 https://diprefranco.github.io/angular-template-my-website/
